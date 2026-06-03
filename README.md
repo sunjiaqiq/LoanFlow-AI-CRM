@@ -1,4 +1,12 @@
 AI Private Domain CRM System（金融/贷款行业专用）
+
+<img width="952" height="819" alt="cc1f83e6-e53c-40c6-a2d7-2401f96b3e91" src="https://github.com/user-attachments/assets/1cb4e037-a1bc-4e94-98fd-2f1f7c682bdd" />
+
+
+视频演示：私域智能体详情教程.mp4
+链接: https://pan.baidu.com/s/1sy0SpqbJp4gvGEQhDJehgA?pwd=96jm 提取码: 96jm 
+
+
 项目简介
 
 AI Private Domain CRM System 是一套面向贷款、金融、中介、电销及私域运营团队打造的智能客户管理与自动化营销系统。
